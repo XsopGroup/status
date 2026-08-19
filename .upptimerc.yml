@@ -1,9 +1,8 @@
-# Change these first
 owner: XsopGroup
 repo: status
 
 sites:
-  - name: 秀操作  
+  - name: 秀操作
     url: https://www.xsop.de
   - name: IPShow
     url: https://ipshow.de
@@ -13,4 +12,3 @@ sites:
     url: https://bestip.bond
   - name: 127001 Bond
     url: https://127001.bond
-
